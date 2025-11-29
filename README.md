@@ -24,7 +24,30 @@ Het framework bevat de volgende experts:
 - **Expert Systemen**: Systeemanalyse en efficiëntie
 - **Integraal Strategisch Advies**: Multidisciplinaire analyses
 
-## Gebruik
+## Hoe te gebruiken
+
+### Setup in AI Chat Applicaties
+
+Gebruik dit framework binnen de **"Projecten"** sectie van je favoriete AI chat applicatie (ChatGPT, Claude, etc.):
+
+1. **Projectinstructie**: Gebruik `@projectprompt-personal-mba.md` als de hoofdinstructie voor je project
+2. **Kennisbank**: Voeg alle andere expert-bestanden toe in de file-sectie van je project
+3. **Context**: Alle bestanden zijn nu beschikbaar voor de AI om mee te werken
+
+### Pro Tip: Personaliseer voor jouw onderneming
+
+Breid de `projectprompt-personal-mba.md` uit met een sectie **"De onderneming"** waarin je extra context geeft over:
+
+- Je bedrijf, product of dienst
+- Je doelgroep en markt
+- Huidige fase (idee, MVP, schalen, etc.)
+- Specifieke uitdagingen of doelen
+
+Dit geeft de AI experts veel betere context voor gepersonaliseerd advies en verhoogt de relevantie van de aanbevelingen aanzienlijk.
+
+**Happy Business Development!** 🚀
+
+## Gebruik van de Experts
 
 Begin je vraag met een prefix om een specifiek perspectief te activeren:
 
